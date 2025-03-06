@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 """to run the code don't type python main_flask.py
-streamlit run "IP address featch/main_flask.py" 
+streamlit run "manin.py" 
 """
 
 # Function to fetch IP information
