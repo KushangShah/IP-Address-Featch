@@ -1,9 +1,15 @@
 import streamlit as st
 import requests
 
-"""to run the code don't type python main_flask.py
-streamlit run "manin.py" 
-"""
+
+# Copy past this in terminal:
+
+# python3 -m venv venv
+
+# source venv/bin/activate
+
+# streamlit run "manin.py" 
+
 
 # Function to fetch IP information
 def get_ip_info(ip_address):
